@@ -29,7 +29,7 @@ const Projects = () => {
       image: ("/public/memes generator.png"), // Corrected image path
       link: "https://github.com/luckyrawat75/joke-Generator-using-React.git",
       likes: 0,
-    },
+    }, 
     {
       title: "Coming Soon Page",
       description:
