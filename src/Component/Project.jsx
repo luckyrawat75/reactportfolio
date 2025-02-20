@@ -8,7 +8,7 @@ const Projects = () => {
       description:
         "A digital clock displays time in a numeric format, ensuring precise, easy-to-read, and modern timekeeping compared to traditional analog clocks.",
       technologies: "HTML, CSS, JavaScript",
-      image:("public/digital clock.jpg"), // Corrected image path
+      image:("/public/digital clock.jpg"), // Corrected image path
       link: "https://github.com/luckyrawat75/stop-watch.git",
       likes: 0,
     },
@@ -17,7 +17,7 @@ const Projects = () => {
       description:
         "A personal portfolio website showcasing web development projects and skills. Built with React JS and Tailwind CSS, it also includes contact information for potential job opportunities..",
       technologies: "React,css",
-      image:("public/myportflo.png"), // Corrected image path
+      image:("/public/myportflo.png"), // Corrected image path
       link: "http://localhost:5173/",
       likes: 0,
     },
@@ -26,7 +26,7 @@ const Projects = () => {
       description:
         "Our meme generator project creates fun and creative memes easily by adding custom text to images, perfect for sharing laughs!",
       technologies: "React, API, CSS",
-      image: ("public/memes generator.png"), // Corrected image path
+      image: ("/public/memes generator.png"), // Corrected image path
       link: "https://github.com/luckyrawat75/joke-Generator-using-React.git",
       likes: 0,
     },
@@ -35,7 +35,7 @@ const Projects = () => {
       description:
         "Our coming soon page builds excitement, collects visitor emails, shares updates, and offers a countdown to our project launch.",
       technologies: "HTML, CSS, JavaScript",
-      image: ("public/comeing soon page.jpg"), // Corrected image path
+      image: ("/public/comeing soon page.jpg"), // Corrected image path
       link: "https://github.com/luckyrawat75/Coming-Soon-Page-Generator-.git",
       likes: 0,
     },
@@ -44,7 +44,7 @@ const Projects = () => {
       description:
         "Our healthy food website provides nutritious recipes, meal plans, wellness tips, and promotes mindful eating for a healthier lifestyle.",
       technologies: "HTML, CSS, JavaScript",
-      image: ("public/healthy food.png"), // Corrected image path
+      image: ("/public/healthy food.png"), // Corrected image path
       link: "#",
       likes: 0,
     },
