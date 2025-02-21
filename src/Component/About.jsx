@@ -7,7 +7,7 @@ import Skills from "./Skill";
 
 const About = () => {
   const openResume = () => {
-    window.open("/public/my resume.jpg", "_blank");
+    window.open("/my resume.jpg", "_blank");
   };
 
   return (
@@ -31,7 +31,7 @@ const About = () => {
             </button>
           </div>
           <div className="about-image">
-            <img src="/public/aryan rwt 1 copy.jpg" alt="Profile" />
+            <img src="/aryan rwt 1 copy.jpg" alt="Profile" />
           </div>
         </div>
       </section>

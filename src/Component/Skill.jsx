@@ -1,37 +1,35 @@
 import React from "react";
 import "./Nav.css";
 
-
-
 const Skills = () => {
   const skills = [
     {
       name: "HTML",
-      logo: "/public/5847f5bdcef1014c0b5e489c.png",
+      logo: "/5847f5bdcef1014c0b5e489c.png",
     },
     {
       name: "CSS",
-      logo: "/public/CSS3.png",
+      logo: "/CSS3.png",
     },
     {
       name: "Javascript",
-      logo: "/public/JavaScript.png",
+      logo: "/JavaScript.png",
     },
     {
       name: "React Js",
-      logo: "/public/react.png",
+      logo: "/react.png",
     },
     {
       name: "SQL",
-      logo: "/public/555.png",
+      logo: "/555.png",
     },
     {
       name: "Bootstrap",
-      logo: "/public/Bootstrap.png",
+      logo: "/Bootstrap.png",
     },
     {
       name: "Github",
-      logo: "/public/GitHub.png",
+      logo: "/GitHub.png",
     },
   ];
 
