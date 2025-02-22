@@ -370,6 +370,11 @@
   align-items: center;
   gap: 3rem;
 }
+.top{
+  font-size: 3rem;
+  font-weight: 700;
+  color:#FFF4D4;
+}
 
 .project-card {
   max-width: 1200px;

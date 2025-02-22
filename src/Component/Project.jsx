@@ -58,11 +58,13 @@ const Projects = () => {
 
   return (
     <div className="projects-section">
+      <h1 className="top">Projects</h1>
       {projects.map((project, index) => (
         <div
           className={`project-card ${index % 2 === 0 ? "left" : "right"}`}
           key={index}
         >
+      
           <div className="project-details">
             <h2>{project.title}</h2>
             <p>{project.description}</p>
