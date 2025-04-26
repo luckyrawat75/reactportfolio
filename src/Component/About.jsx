@@ -7,7 +7,7 @@ import Skills from "./Skill";
 
 const About = () => {
   const openResume = () => {
-    window.open("/my resume.jpg", "_blank");
+    window.open("/public/Resume.jpg", "_blank");
   };
 
   return (
